@@ -13,7 +13,7 @@ const fraunces = Fraunces({
 });
 
 export const metadata: Metadata = {
-  title: "RoundUp Lead Intake",
+  title: "Paraquat Lead Intake",
   description: "Submit your details.",
 };
 
