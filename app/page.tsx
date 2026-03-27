@@ -417,7 +417,7 @@ export default function Home() {
         <section className="flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">
           <div className="flex flex-col gap-4">
             <div className="inline-flex w-fit items-center gap-2 rounded-full border border-slate-900/10 bg-white/70 px-4 py-2 text-xs uppercase tracking-[0.2em] text-slate-600">
-              RoundUp Lead Intake
+              Paraquat Lead Intake
             </div>
             <h1 className="text-4xl font-semibold leading-tight text-slate-900 sm:text-5xl font-[family:var(--font-display)]">
               Capture every required field and submit directly to LeadProsper.
